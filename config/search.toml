@@ -1,0 +1,41 @@
+# Settings for `just search`.
+#
+# The official Hacker News API (https://github.com/HackerNews/API) has no search.
+# Search runs against the Algolia index behind https://hn.algolia.com, with the
+# parameters the website sends for
+#   https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=<query>&sort=byPopularity&type=story
+# so `just search` returns the website's results in the website's order.
+
+[http]
+user_agent = "Mozilla/5.0 (compatible; search-hackernews/0.0.1)"
+timeout_seconds = 30
+
+[algolia]
+# Public search-only credentials of the hn.algolia.com website.
+application_id = "UJ5WYC0L7X"
+api_key = "28f0e1ec37a5e792e6845e67da5f20dd"
+index = "Item_dev"  # sort=byPopularity
+
+# Sent with every request; `query` and `page` are added per request. The MCP
+# server (src/mcp/) also sets `hitsPerPage`, `tagFilters`, and `numericFilters`
+# per request.
+[algolia.params]
+hitsPerPage = 1000  # Algolia's maximum; it returns at most 1000 hits per query
+tagFilters = ["story"]  # type=story
+queryType = "prefixNone"  # prefix=false
+typoTolerance = true
+minWordSizefor1Typo = 4
+minWordSizefor2Typos = 8
+ignorePlurals = false
+minProximity = 7
+advancedSyntax = true
+restrictSearchableAttributes = ["title", "comment_text", "url", "story_text", "author"]
+
+[discussions]
+# The official Hacker News API (https://github.com/HackerNews/API) serves one item
+# (story or comment) per request, so a discussion takes one request per comment.
+item_url = "https://hacker-news.firebaseio.com/v0/item/{id}.json"
+max_concurrent_requests = 32
+
+[output]
+directory = "data/output"

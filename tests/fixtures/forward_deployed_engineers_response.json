@@ -1,0 +1,1821 @@
+{
+  "hits": [
+    {
+      "title": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+      "url": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+      "author": "saisrirampur",
+      "points": 106,
+      "num_comments": 98,
+      "story_id": 48900432,
+      "created_at_i": 1783985950,
+      "created_at": "2026-07-13T23:39:10Z",
+      "updated_at": "2026-09-24T12:55:08Z",
+      "_tags": [
+        "story",
+        "author_saisrirampur",
+        "story_48900432"
+      ],
+      "children": [
+        48900455,
+        48900762,
+        48900783,
+        48900809,
+        48900810,
+        48900839,
+        48900878,
+        48900887,
+        48900890,
+        48900934,
+        48900939,
+        48900958,
+        48900975,
+        48900993,
+        48901081,
+        48901118,
+        48901140,
+        48901161,
+        48901164,
+        48901177,
+        48901305,
+        48901986,
+        48902600,
+        48902605,
+        48903150,
+        48904090,
+        48904100,
+        48904867,
+        48904956,
+        48905033,
+        48905689,
+        48909103,
+        48910299,
+        48914009
+      ],
+      "objectID": "48900432"
+    },
+    {
+      "title": "The new hot job in AI: forward-deployed engineers",
+      "url": "https://www.ft.com/content/91002071-7874-4cb7-9245-08ca0571c408",
+      "author": "jamesblonde",
+      "points": 5,
+      "num_comments": 0,
+      "story_id": 45788526,
+      "created_at_i": 1762068842,
+      "created_at": "2025-11-02T07:34:02Z",
+      "updated_at": "2026-03-05T23:00:19Z",
+      "_tags": [
+        "story",
+        "author_jamesblonde",
+        "story_45788526"
+      ],
+      "objectID": "45788526"
+    },
+    {
+      "title": "What are Forward Deployed Engineers, and why are they so in demand?",
+      "url": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+      "author": "carlos-menezes",
+      "points": 4,
+      "num_comments": 1,
+      "story_id": 48150427,
+      "created_at_i": 1778861676,
+      "created_at": "2026-05-15T16:14:36Z",
+      "updated_at": "2026-05-16T12:52:46Z",
+      "_tags": [
+        "story",
+        "author_carlos-menezes",
+        "story_48150427"
+      ],
+      "children": [
+        48150906
+      ],
+      "objectID": "48150427"
+    },
+    {
+      "title": "What are Forward Deployed Engineers, and why are they so in demand?",
+      "url": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+      "author": "saisrirampur",
+      "points": 4,
+      "num_comments": 0,
+      "story_id": 48736670,
+      "created_at_i": 1782842586,
+      "created_at": "2026-06-30T18:03:06Z",
+      "updated_at": "2026-07-03T00:49:51Z",
+      "_tags": [
+        "story",
+        "author_saisrirampur",
+        "story_48736670"
+      ],
+      "objectID": "48736670"
+    },
+    {
+      "title": "Do you need Forward Deployed Engineers?",
+      "url": "https://www.aienablementinsider.com/p/do-you-really-need-forward-deployed-engineers",
+      "author": "dylancollins",
+      "points": 4,
+      "num_comments": 0,
+      "story_id": 47546096,
+      "created_at_i": 1774634386,
+      "created_at": "2026-03-27T17:59:46Z",
+      "updated_at": "2026-03-27T18:21:24Z",
+      "_tags": [
+        "story",
+        "author_dylancollins",
+        "story_47546096"
+      ],
+      "objectID": "47546096"
+    },
+    {
+      "title": "Forward-deployed engineers are the AI industry's latest talent obsession",
+      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "author": "mgh2",
+      "points": 3,
+      "num_comments": 0,
+      "story_id": 49178864,
+      "created_at_i": 1785907435,
+      "created_at": "2026-08-05T05:23:55Z",
+      "updated_at": "2026-08-05T17:56:05Z",
+      "_tags": [
+        "story",
+        "author_mgh2",
+        "story_49178864"
+      ],
+      "objectID": "49178864"
+    },
+    {
+      "title": "Forward Deployed Engineers",
+      "url": "https://www.svpg.com/forward-deployed-engineers/",
+      "author": "gpi",
+      "points": 3,
+      "num_comments": 0,
+      "story_id": 46508595,
+      "created_at_i": 1767672065,
+      "created_at": "2026-01-06T04:01:05Z",
+      "updated_at": "2026-03-05T23:16:59Z",
+      "_tags": [
+        "story",
+        "author_gpi",
+        "story_46508595"
+      ],
+      "objectID": "46508595"
+    },
+    {
+      "title": "Ask HN: What's the Deal with Forward Deployed Engineers?",
+      "author": "rubyrenegade",
+      "points": 2,
+      "num_comments": 7,
+      "story_id": 47542553,
+      "created_at_i": 1774618918,
+      "created_at": "2026-03-27T13:41:58Z",
+      "updated_at": "2026-06-28T17:05:04Z",
+      "_tags": [
+        "story",
+        "author_rubyrenegade",
+        "story_47542553",
+        "ask_hn"
+      ],
+      "children": [
+        47542672,
+        47543168,
+        47546447
+      ],
+      "objectID": "47542553"
+    },
+    {
+      "title": "800% jump in postings for a new kind of AI role: forward-deployed engineers",
+      "url": "https://www.interviewquery.com/p/ai-forward-deployed-engineer-jobs-2025",
+      "author": "birdculture",
+      "points": 2,
+      "num_comments": 1,
+      "story_id": 45855367,
+      "created_at_i": 1762593518,
+      "created_at": "2025-11-08T09:18:38Z",
+      "updated_at": "2026-03-05T22:59:37Z",
+      "_tags": [
+        "story",
+        "author_birdculture",
+        "story_45855367"
+      ],
+      "children": [
+        45855488,
+        45857157
+      ],
+      "objectID": "45855367"
+    },
+    {
+      "title": "Palantir's fondness for French food led to 'forward-deployed engineers'",
+      "url": "https://www.theregister.com/channel/2026/10/03/palantirs-fondness-for-french-food-cooked-up-techs-latest-fad-forward-deployed-engineers/5300360",
+      "author": "joebuckwilliams",
+      "points": 2,
+      "num_comments": 0,
+      "story_id": 49944885,
+      "created_at_i": 1791039541,
+      "created_at": "2026-10-03T14:59:01Z",
+      "updated_at": "2026-10-03T23:46:38Z",
+      "_tags": [
+        "story",
+        "author_joebuckwilliams",
+        "story_49944885"
+      ],
+      "objectID": "49944885"
+    },
+    {
+      "title": "What are Forward Deployed Engineers, and why are they so in demand?",
+      "url": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+      "author": "walterbell",
+      "points": 2,
+      "num_comments": 0,
+      "story_id": 44889948,
+      "created_at_i": 1755099765,
+      "created_at": "2025-08-13T15:42:45Z",
+      "updated_at": "2026-03-05T22:34:54Z",
+      "_tags": [
+        "story",
+        "author_walterbell",
+        "story_44889948"
+      ],
+      "objectID": "44889948"
+    },
+    {
+      "title": "AI Models Are the Gold, Forward-Deployed Engineers Are the Gold Miners",
+      "url": "https://www.emcap.com/thoughts/ai-models-are-the-gold-forward-deployed-engineers-are-the-gold-miners",
+      "author": "yarapavan",
+      "points": 2,
+      "num_comments": 0,
+      "story_id": 44888267,
+      "created_at_i": 1755092164,
+      "created_at": "2025-08-13T13:36:04Z",
+      "updated_at": "2026-03-05T22:34:49Z",
+      "_tags": [
+        "story",
+        "author_yarapavan",
+        "story_44888267"
+      ],
+      "objectID": "44888267"
+    },
+    {
+      "title": "What's the Deal with Forward Deployed Engineers?",
+      "author": "rubyrenegade",
+      "points": 1,
+      "num_comments": 6,
+      "story_id": 47538813,
+      "created_at_i": 1774581876,
+      "created_at": "2026-03-27T03:24:36Z",
+      "updated_at": "2026-03-31T14:17:41Z",
+      "_tags": [
+        "story",
+        "author_rubyrenegade",
+        "story_47538813",
+        "ask_hn"
+      ],
+      "children": [
+        47538844,
+        47539183,
+        47547203
+      ],
+      "objectID": "47538813"
+    },
+    {
+      "title": "Forward-Deployed Engineers",
+      "url": "https://www.theregister.com/channel/2026/10/03/palantirs-fondness-for-french-food-cooked-up-techs-latest-fad-forward-deployed-engineers/5300360",
+      "author": "saikatsg",
+      "points": 1,
+      "num_comments": 0,
+      "story_id": 49950951,
+      "created_at_i": 1791091924,
+      "created_at": "2026-10-04T05:32:04Z",
+      "updated_at": "2026-10-04T06:14:23Z",
+      "_tags": [
+        "story",
+        "author_saikatsg",
+        "story_49950951"
+      ],
+      "objectID": "49950951"
+    },
+    {
+      "title": "Forward Deployed Engineers from the Trenches",
+      "url": "https://javisantana.com/fde/en/",
+      "author": "adastral",
+      "points": 1,
+      "num_comments": 0,
+      "story_id": 49785426,
+      "created_at_i": 1789986776,
+      "created_at": "2026-09-21T10:32:56Z",
+      "updated_at": "2026-09-21T10:33:43Z",
+      "_tags": [
+        "story",
+        "author_adastral",
+        "story_49785426"
+      ],
+      "objectID": "49785426"
+    },
+    {
+      "title": "Forward Deployed Engineers",
+      "url": "https://www.svpg.com/forward-deployed-engineers/",
+      "author": "arnon",
+      "points": 1,
+      "num_comments": 0,
+      "story_id": 45321329,
+      "created_at_i": 1758447459,
+      "created_at": "2025-09-21T09:37:39Z",
+      "updated_at": "2026-03-05T22:41:02Z",
+      "_tags": [
+        "story",
+        "author_arnon",
+        "story_45321329"
+      ],
+      "objectID": "45321329"
+    },
+    {
+      "title": "Palantir's Forward Deployed Engineers Explained",
+      "url": "https://tedmabrey.substack.com/p/sorry-that-isnt-an-fde",
+      "author": "robertkoss",
+      "points": 1,
+      "num_comments": 0,
+      "story_id": 41923861,
+      "created_at_i": 1729682711,
+      "created_at": "2024-10-23T11:25:11Z",
+      "updated_at": "2024-10-23T11:25:48Z",
+      "_tags": [
+        "story",
+        "author_robertkoss",
+        "story_41923861"
+      ],
+      "objectID": "41923861"
+    },
+    {
+      "title": "The State of AI in SaaS",
+      "author": "sskates",
+      "points": 2,
+      "num_comments": 0,
+      "story_id": 45634211,
+      "created_at_i": 1760882626,
+      "created_at": "2025-10-19T14:03:46Z",
+      "updated_at": "2026-03-05T22:50:27Z",
+      "_tags": [
+        "story",
+        "author_sskates",
+        "story_45634211",
+        "ask_hn"
+      ],
+      "objectID": "45634211"
+    },
+    {
+      "title": "What are the best resources to learn about FDE role?",
+      "author": "RoopeRipatti",
+      "points": 1,
+      "num_comments": 0,
+      "story_id": 45101541,
+      "created_at_i": 1756811981,
+      "created_at": "2025-09-02T11:19:41Z",
+      "updated_at": "2026-03-05T22:36:39Z",
+      "_tags": [
+        "story",
+        "author_RoopeRipatti",
+        "story_45101541",
+        "ask_hn"
+      ],
+      "objectID": "45101541"
+    },
+    {
+      "title": "Founding Account Executive – Remote (US only) – Full-time – $130–160K and Equity",
+      "author": "gladysramos",
+      "points": 1,
+      "num_comments": 0,
+      "story_id": 44328469,
+      "created_at_i": 1750432197,
+      "created_at": "2025-06-20T15:09:57Z",
+      "updated_at": "2025-06-20T15:14:51Z",
+      "_tags": [
+        "story",
+        "author_gladysramos",
+        "story_44328469",
+        "ask_hn"
+      ],
+      "objectID": "44328469"
+    },
+    {
+      "title": "AWS puts $1B into new AI unit to embed engineers with customers",
+      "url": "https://www.cnbc.com/2026/06/30/aws-amazon-ai-forward-deployed-engineers.html",
+      "author": "leopoldj",
+      "points": 6,
+      "num_comments": 2,
+      "story_id": 48735945,
+      "created_at_i": 1782839884,
+      "created_at": "2026-06-30T17:18:04Z",
+      "updated_at": "2026-07-02T13:05:05Z",
+      "_tags": [
+        "story",
+        "author_leopoldj",
+        "story_48735945"
+      ],
+      "children": [
+        48736959,
+        48739249
+      ],
+      "objectID": "48735945"
+    },
+    {
+      "title": "Launch HN: OutSail (YC W23) – Wingsails to reduce cargo ship fuel consumption",
+      "author": "jmoorebeek",
+      "points": 527,
+      "num_comments": 269,
+      "story_id": 35426482,
+      "created_at_i": 1680538728,
+      "created_at": "2023-04-03T16:18:48Z",
+      "updated_at": "2026-04-17T03:03:21Z",
+      "_tags": [
+        "story",
+        "author_jmoorebeek",
+        "story_35426482",
+        "launch_hn"
+      ],
+      "children": [
+        35426743,
+        35426915,
+        35426975,
+        35427053,
+        35427078,
+        35427107,
+        35427294,
+        35427334,
+        35427340,
+        35427377,
+        35427439,
+        35427473,
+        35427482,
+        35427545,
+        35427547,
+        35427569,
+        35427600,
+        35427659,
+        35427702,
+        35427716,
+        35427764,
+        35427766,
+        35427775,
+        35428055,
+        35428143,
+        35428215,
+        35428576,
+        35428717,
+        35428727,
+        35428862,
+        35429073,
+        35429110,
+        35429521,
+        35429703,
+        35429768,
+        35429818,
+        35429908,
+        35429936,
+        35429980,
+        35430060,
+        35430103,
+        35430117,
+        35430599,
+        35430633,
+        35430697,
+        35430944,
+        35431242,
+        35431342,
+        35431398,
+        35431594,
+        35431896,
+        35432518,
+        35432853,
+        35433066,
+        35433314,
+        35433348,
+        35433357,
+        35433648,
+        35434075,
+        35434124,
+        35434340,
+        35434386,
+        35434394,
+        35434597,
+        35435038,
+        35435325,
+        35435378,
+        35435422,
+        35435703,
+        35435842,
+        35436217,
+        35436958,
+        35437472,
+        35437905,
+        35438011,
+        35438078,
+        35439845,
+        35443436,
+        35448272
+      ],
+      "objectID": "35426482"
+    },
+    {
+      "title": "Launch HN: Porter (YC S20) – Open-source Heroku in your own cloud",
+      "author": "sungrokshim",
+      "points": 239,
+      "num_comments": 74,
+      "story_id": 26993421,
+      "created_at_i": 1619790544,
+      "created_at": "2021-04-30T13:49:04Z",
+      "updated_at": "2024-09-20T08:31:01Z",
+      "_tags": [
+        "story",
+        "author_sungrokshim",
+        "story_26993421",
+        "launch_hn"
+      ],
+      "children": [
+        26993634,
+        26993644,
+        26993651,
+        26993680,
+        26993971,
+        26994016,
+        26994163,
+        26994684,
+        26994860,
+        26995160,
+        26995897,
+        26996254,
+        26996863,
+        26996907,
+        26997276,
+        26997955,
+        26998020,
+        26998794,
+        26998824,
+        26999152,
+        27000880,
+        27000932,
+        27002064,
+        27004207,
+        27004611,
+        27006188,
+        27007398
+      ],
+      "objectID": "26993421"
+    },
+    {
+      "title": "Show HN: Nango – Open unified API for product integrations",
+      "url": "https://www.nango.dev?source=hn-nov-2023",
+      "author": "rguldener",
+      "points": 106,
+      "num_comments": 43,
+      "story_id": 38206973,
+      "created_at_i": 1699546655,
+      "created_at": "2023-11-09T16:17:35Z",
+      "updated_at": "2025-01-11T12:12:26Z",
+      "_tags": [
+        "story",
+        "author_rguldener",
+        "story_38206973",
+        "show_hn"
+      ],
+      "children": [
+        38208472,
+        38208576,
+        38209085,
+        38209327,
+        38209375,
+        38209547,
+        38210284,
+        38211155,
+        38211482,
+        38211490,
+        38213573,
+        38214549,
+        38247252
+      ],
+      "objectID": "38206973"
+    },
+    {
+      "title": "Launch HN: Nullstone (YC W22) – An easier way to deploy and manage cloud apps",
+      "author": "bsick7",
+      "points": 105,
+      "num_comments": 64,
+      "story_id": 37391272,
+      "created_at_i": 1693920073,
+      "created_at": "2023-09-05T13:21:13Z",
+      "updated_at": "2025-01-14T01:14:36Z",
+      "_tags": [
+        "story",
+        "author_bsick7",
+        "story_37391272",
+        "launch_hn"
+      ],
+      "children": [
+        37391850,
+        37391866,
+        37391876,
+        37391877,
+        37392513,
+        37392694,
+        37393410,
+        37393575,
+        37393654,
+        37394050,
+        37394176,
+        37394231,
+        37401751,
+        37402443,
+        37414012,
+        37418511
+      ],
+      "objectID": "37391272"
+    },
+    {
+      "title": "Ask HN: Has web development become insane or am I stuck in my ways?",
+      "author": "davzie",
+      "points": 97,
+      "num_comments": 69,
+      "story_id": 28275873,
+      "created_at_i": 1629727418,
+      "created_at": "2021-08-23T14:03:38Z",
+      "updated_at": "2024-09-20T09:18:36Z",
+      "_tags": [
+        "story",
+        "author_davzie",
+        "story_28275873",
+        "ask_hn"
+      ],
+      "children": [
+        28275943,
+        28275983,
+        28276157,
+        28276532,
+        28276540,
+        28276880,
+        28277302,
+        28278159,
+        28278380,
+        28278481,
+        28278514,
+        28279223,
+        28279248,
+        28279271,
+        28279395,
+        28279586,
+        28279687,
+        28279901,
+        28280247,
+        28280325,
+        28280489,
+        28280885,
+        28281276,
+        28281396,
+        28281702,
+        28282449,
+        28282609,
+        28283587,
+        28283875,
+        28285159,
+        28286072,
+        28287118,
+        28289724,
+        28289952,
+        28298750
+      ],
+      "objectID": "28275873"
+    },
+    {
+      "title": "Launch HN: EdgeBit (YC W23) – live software vulnerability analysis",
+      "author": "robszumski",
+      "points": 80,
+      "num_comments": 29,
+      "story_id": 34981946,
+      "created_at_i": 1677676085,
+      "created_at": "2023-03-01T13:08:05Z",
+      "updated_at": "2024-09-20T13:30:38Z",
+      "_tags": [
+        "story",
+        "author_robszumski",
+        "story_34981946",
+        "launch_hn"
+      ],
+      "children": [
+        34982090,
+        34982106,
+        34982669,
+        34983019,
+        34983049,
+        34983082,
+        34983224,
+        34983292,
+        34983627,
+        34984658,
+        34986898,
+        34988532,
+        34988688,
+        34989454,
+        34995657,
+        34995951,
+        34996005
+      ],
+      "objectID": "34981946"
+    },
+    {
+      "title": "Show HN: Datree (YC W20) – End-to-End Policy Management for Kubernetes",
+      "author": "shimont",
+      "points": 43,
+      "num_comments": 6,
+      "story_id": 35440736,
+      "created_at_i": 1680620376,
+      "created_at": "2023-04-04T14:59:36Z",
+      "updated_at": "2024-09-20T13:47:33Z",
+      "_tags": [
+        "story",
+        "author_shimont",
+        "story_35440736",
+        "show_hn"
+      ],
+      "children": [
+        35440839,
+        35441249,
+        35444010,
+        35445391
+      ],
+      "objectID": "35440736"
+    },
+    {
+      "title": "Show HN: SQLMesh – The Future of DataOps",
+      "url": "https://github.com/TobikoData/sqlmesh",
+      "author": "captaintobs",
+      "points": 29,
+      "num_comments": 2,
+      "story_id": 35343279,
+      "created_at_i": 1680019587,
+      "created_at": "2023-03-28T16:06:27Z",
+      "updated_at": "2025-07-19T10:45:41Z",
+      "_tags": [
+        "story",
+        "author_captaintobs",
+        "story_35343279",
+        "show_hn"
+      ],
+      "children": [
+        35345795
+      ],
+      "objectID": "35343279"
+    },
+    {
+      "title": "An answer to: why is Nvidia making GPUs bigger when games don't need them?",
+      "author": "stephanst",
+      "points": 21,
+      "num_comments": 63,
+      "story_id": 33213976,
+      "created_at_i": 1665834500,
+      "created_at": "2022-10-15T11:48:20Z",
+      "updated_at": "2025-11-14T02:12:06Z",
+      "_tags": [
+        "story",
+        "author_stephanst",
+        "story_33213976",
+        "ask_hn"
+      ],
+      "children": [
+        33214403,
+        33214437,
+        33214459,
+        33214480,
+        33214492,
+        33214514,
+        33214566,
+        33214591,
+        33214596,
+        33214659,
+        33214722,
+        33214727,
+        33214731,
+        33214870,
+        33214906,
+        33214988,
+        33217302
+      ],
+      "objectID": "33213976"
+    },
+    {
+      "title": "Seeking Co-Founder for YC – Industrial LLMs",
+      "author": "dragostudor",
+      "points": 3,
+      "num_comments": 1,
+      "story_id": 38214399,
+      "created_at_i": 1699583644,
+      "created_at": "2023-11-10T02:34:04Z",
+      "updated_at": "2024-09-20T15:34:04Z",
+      "_tags": [
+        "story",
+        "author_dragostudor",
+        "story_38214399",
+        "ask_hn"
+      ],
+      "children": [
+        38214407
+      ],
+      "objectID": "38214399"
+    },
+    {
+      "title": "Ask HN: Sandbaggr: rate your stats against your friends and the pros.",
+      "url": "",
+      "author": "sandbaggr",
+      "points": 1,
+      "num_comments": 0,
+      "created_at_i": 1337384324,
+      "created_at": "2012-05-18T23:38:44Z",
+      "updated_at": "2023-09-06T21:40:39Z",
+      "_tags": [
+        "story",
+        "author_sandbaggr",
+        "story_3994605",
+        "ask_hn"
+      ],
+      "story_id": 3994605,
+      "objectID": "3994605"
+    },
+    {
+      "title": "Rise of the Forward Deployed Engineer",
+      "url": "https://www.hfsresearch.com/research/fde-optional-ai-flywheel-spin/",
+      "author": "rib3ye",
+      "points": 24,
+      "num_comments": 36,
+      "story_id": 47951082,
+      "created_at_i": 1777481680,
+      "created_at": "2026-04-29T16:54:40Z",
+      "updated_at": "2026-05-08T20:22:49Z",
+      "_tags": [
+        "story",
+        "author_rib3ye",
+        "story_47951082"
+      ],
+      "children": [
+        47951126,
+        47952124,
+        47952205,
+        47952206,
+        47952249,
+        47952326,
+        47952331,
+        47952445,
+        47952518,
+        47952528,
+        47952575,
+        47952621,
+        47952698,
+        47952701,
+        47952705,
+        47952729,
+        47952791,
+        47952916,
+        47953271,
+        47953461,
+        47953694,
+        47953803,
+        47966165,
+        48066956
+      ],
+      "objectID": "47951082"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "url": "https://en.wikipedia.org/wiki/Forward_Deployed_Engineer",
+      "author": "wslh",
+      "points": 9,
+      "num_comments": 2,
+      "story_id": 48373691,
+      "created_at_i": 1780422848,
+      "created_at": "2026-06-02T17:54:08Z",
+      "updated_at": "2026-06-03T12:11:56Z",
+      "_tags": [
+        "story",
+        "author_wslh",
+        "story_48373691"
+      ],
+      "children": [
+        48376273,
+        48376796
+      ],
+      "objectID": "48373691"
+    },
+    {
+      "title": "Forward-deployed engineer: a $247k to $552k salary jump",
+      "url": "https://www.reddit.com/r/Salary/comments/1vbawdb/comment/p6e2dtm/",
+      "author": "igor_ryabenkiy",
+      "points": 7,
+      "num_comments": 2,
+      "story_id": 49477339,
+      "created_at_i": 1787918776,
+      "created_at": "2026-08-28T12:06:16Z",
+      "updated_at": "2026-08-28T23:18:15Z",
+      "_tags": [
+        "story",
+        "author_igor_ryabenkiy",
+        "story_49477339"
+      ],
+      "children": [
+        49477340,
+        49479165,
+        49479451
+      ],
+      "objectID": "49477339"
+    },
+    {
+      "title": "Forward deployed engineer, the new full-stack developer",
+      "url": "https://kairollmann.de/2025/11/06/forward-deployed-engineer-the-new-full-stack-frontier/",
+      "author": "kadrian12",
+      "points": 7,
+      "num_comments": 0,
+      "story_id": 45937186,
+      "created_at_i": 1763212031,
+      "created_at": "2025-11-15T13:07:11Z",
+      "updated_at": "2026-03-05T23:00:02Z",
+      "_tags": [
+        "story",
+        "author_kadrian12",
+        "story_45937186"
+      ],
+      "objectID": "45937186"
+    },
+    {
+      "title": "#1 skill an FDE Forward Deployed Engineer Needs, it's not what you think",
+      "url": "https://www.youtube.com/watch?v=CYF7T2HiLfc",
+      "author": "pvergadia",
+      "points": 6,
+      "num_comments": 1,
+      "story_id": 49441509,
+      "created_at_i": 1787696600,
+      "created_at": "2026-08-25T22:23:20Z",
+      "updated_at": "2026-08-26T21:31:52Z",
+      "_tags": [
+        "story",
+        "author_pvergadia",
+        "story_49441509"
+      ],
+      "children": [
+        49441510
+      ],
+      "objectID": "49441509"
+    },
+    {
+      "title": "Ask HN: Why is the term forward deployed engineer (FDE) popular all of a sudden?",
+      "author": "palidanx",
+      "points": 4,
+      "num_comments": 4,
+      "story_id": 48507410,
+      "created_at_i": 1781287586,
+      "created_at": "2026-06-12T18:06:26Z",
+      "updated_at": "2026-08-22T05:51:49Z",
+      "_tags": [
+        "story",
+        "author_palidanx",
+        "story_48507410",
+        "ask_hn"
+      ],
+      "children": [
+        48507432,
+        48507475,
+        48507539,
+        48507551
+      ],
+      "objectID": "48507410"
+    },
+    {
+      "title": "A Week in the Life of a Forward Deployed Engineer (10 clients, 50 hours)",
+      "url": "https://fdehub.substack.com/p/what-fdes-actually-do-all-week",
+      "author": "milos-mandic",
+      "points": 4,
+      "num_comments": 4,
+      "story_id": 46681864,
+      "created_at_i": 1768843829,
+      "created_at": "2026-01-19T17:30:29Z",
+      "updated_at": "2026-03-05T23:28:18Z",
+      "_tags": [
+        "story",
+        "author_milos-mandic",
+        "story_46681864"
+      ],
+      "children": [
+        46681866,
+        46681877,
+        46681895
+      ],
+      "objectID": "46681864"
+    },
+    {
+      "title": "New Book:Forward Deployed Engineer Rule Book",
+      "url": "https://www.amazon.com/dp/B0FXSZW5HB",
+      "author": "STEM-AI-FDE",
+      "points": 4,
+      "num_comments": 0,
+      "story_id": 45839764,
+      "created_at_i": 1762459722,
+      "created_at": "2025-11-06T20:08:42Z",
+      "updated_at": "2026-03-05T22:58:38Z",
+      "_tags": [
+        "story",
+        "author_STEM-AI-FDE",
+        "story_45839764"
+      ],
+      "objectID": "45839764"
+    },
+    {
+      "title": "Rise of the Forward Deployed Engineer",
+      "url": "https://newsletter.gtmengineering.ai/p/forward-deployed-engineering-101",
+      "author": "alexjl1226",
+      "points": 3,
+      "num_comments": 1,
+      "story_id": 48362679,
+      "created_at_i": 1780348200,
+      "created_at": "2026-06-01T21:10:00Z",
+      "updated_at": "2026-06-01T21:32:04Z",
+      "_tags": [
+        "story",
+        "author_alexjl1226",
+        "story_48362679"
+      ],
+      "children": [
+        48362680,
+        48362714
+      ],
+      "objectID": "48362679"
+    },
+    {
+      "title": "Why 95%+ of Startups Get the Forward Deployed Engineer Role Wrong",
+      "url": "https://www.flybridge.com/ideas/the-bow/why-95-of-startups-get-the-forward-deployed-engineer-role-completely-wrong",
+      "author": "nlpnerd",
+      "points": 3,
+      "num_comments": 0,
+      "story_id": 49136880,
+      "created_at_i": 1785608151,
+      "created_at": "2026-08-01T18:15:51Z",
+      "updated_at": "2026-08-01T20:00:51Z",
+      "_tags": [
+        "story",
+        "author_nlpnerd",
+        "story_49136880"
+      ],
+      "objectID": "49136880"
+    },
+    {
+      "title": "Why no one is interested to become a Forward Deployed Engineer",
+      "url": "https://www.wsj.com/cio-journal/the-hottest-job-in-tech-isnt-very-glamorous-dc29ab3e",
+      "author": "USTECH_WORKER",
+      "points": 3,
+      "num_comments": 0,
+      "story_id": 48968900,
+      "created_at_i": 1784474051,
+      "created_at": "2026-07-19T15:14:11Z",
+      "updated_at": "2026-07-19T18:36:19Z",
+      "_tags": [
+        "story",
+        "author_USTECH_WORKER",
+        "story_48968900"
+      ],
+      "objectID": "48968900"
+    },
+    {
+      "title": "Updated for 2026: Forward Deployed Engineer Rule Book",
+      "url": "https://www.amazon.com/dp/B0FXSZW5HB",
+      "author": "STEM-AI-FDE",
+      "points": 3,
+      "num_comments": 0,
+      "story_id": 46457354,
+      "created_at_i": 1767296918,
+      "created_at": "2026-01-01T19:48:38Z",
+      "updated_at": "2026-03-05T23:17:29Z",
+      "_tags": [
+        "story",
+        "author_STEM-AI-FDE",
+        "story_46457354"
+      ],
+      "objectID": "46457354"
+    },
+    {
+      "title": "The Forward Deployed Engineer",
+      "url": "https://theagenticfounder.com/fde-guide",
+      "author": "peteridah",
+      "points": 2,
+      "num_comments": 1,
+      "story_id": 49094311,
+      "created_at_i": 1785309095,
+      "created_at": "2026-07-29T07:11:35Z",
+      "updated_at": "2026-07-29T07:50:23Z",
+      "_tags": [
+        "story",
+        "author_peteridah",
+        "story_49094311"
+      ],
+      "children": [
+        49094312
+      ],
+      "objectID": "49094311"
+    },
+    {
+      "title": "AI Forward Deployed Engineer (FDE)",
+      "url": "https://twitter.com/AndrewYNg/status/2061477558693384395",
+      "author": "pretext",
+      "points": 2,
+      "num_comments": 1,
+      "story_id": 48366562,
+      "created_at_i": 1780379674,
+      "created_at": "2026-06-02T05:54:34Z",
+      "updated_at": "2026-06-02T18:11:10Z",
+      "_tags": [
+        "story",
+        "author_pretext",
+        "story_48366562"
+      ],
+      "children": [
+        48366583
+      ],
+      "objectID": "48366562"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "url": "https://www.segmed.ai/careers",
+      "author": "michelle-segmed",
+      "points": 2,
+      "num_comments": 1,
+      "story_id": 33358320,
+      "created_at_i": 1666881993,
+      "created_at": "2022-10-27T14:46:33Z",
+      "updated_at": "2024-09-20T12:25:28Z",
+      "_tags": [
+        "story",
+        "author_michelle-segmed",
+        "story_33358320"
+      ],
+      "children": [
+        33358321
+      ],
+      "objectID": "33358320"
+    },
+    {
+      "title": "Every Forward Deployed Engineer Just Got Promoted",
+      "url": "https://www.furtherai.com/blog/every-forward-deployed-engineer-just-got-promoted",
+      "author": "sgondala_ycapp",
+      "points": 2,
+      "num_comments": 0,
+      "story_id": 49339650,
+      "created_at_i": 1787013351,
+      "created_at": "2026-08-18T00:35:51Z",
+      "updated_at": "2026-08-18T01:08:18Z",
+      "_tags": [
+        "story",
+        "author_sgondala_ycapp",
+        "story_49339650"
+      ],
+      "objectID": "49339650"
+    },
+    {
+      "title": "What Founders Should Steal from the Forward-Deployed Engineer Model",
+      "url": "https://www.mercuryconsulting.ai/insights/forward-deployed-engineer-model",
+      "author": "dmujic",
+      "points": 2,
+      "num_comments": 0,
+      "story_id": 49166946,
+      "created_at_i": 1785841963,
+      "created_at": "2026-08-04T11:12:43Z",
+      "updated_at": "2026-08-04T11:40:31Z",
+      "_tags": [
+        "story",
+        "author_dmujic",
+        "story_49166946"
+      ],
+      "objectID": "49166946"
+    },
+    {
+      "title": "Am I a Forward Deployed Engineer? Maybe. Take the Quiz",
+      "url": "https://wanjiko.substack.com/p/am-i-a-forward-deployed-engineer",
+      "author": "contextwindow",
+      "points": 1,
+      "num_comments": 1,
+      "story_id": 47383767,
+      "created_at_i": 1773542489,
+      "created_at": "2026-03-15T02:41:29Z",
+      "updated_at": "2026-03-16T08:22:35Z",
+      "_tags": [
+        "story",
+        "author_contextwindow",
+        "story_47383767"
+      ],
+      "children": [
+        47383789
+      ],
+      "objectID": "47383767"
+    },
+    {
+      "title": "The Forward Deployed Engineer",
+      "url": "https://a16z.com/services-led-growth/",
+      "author": "simonpure",
+      "points": 1,
+      "num_comments": 1,
+      "story_id": 44361334,
+      "created_at_i": 1750721812,
+      "created_at": "2025-06-23T23:36:52Z",
+      "updated_at": "2025-06-23T23:42:33Z",
+      "_tags": [
+        "story",
+        "author_simonpure",
+        "story_44361334"
+      ],
+      "children": [
+        44361361
+      ],
+      "objectID": "44361334"
+    },
+    {
+      "title": "The Rise of the Forward Deployed Engineer – and How to Do the Job Right",
+      "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
+      "author": "yarapavan",
+      "points": 1,
+      "num_comments": 0,
+      "story_id": 49706933,
+      "created_at_i": 1789439012,
+      "created_at": "2026-09-15T02:23:32Z",
+      "updated_at": "2026-09-15T02:28:23Z",
+      "_tags": [
+        "story",
+        "author_yarapavan",
+        "story_49706933"
+      ],
+      "objectID": "49706933"
+    },
+    {
+      "title": "Updated for 2026: Forward Deployed Engineer Rule Book",
+      "url": "https://www.amazon.com/Forward-Deployed-Engineer-Rule-Book/dp/B0FXSZW5HB",
+      "author": "STEM-AI-FDE",
+      "points": 1,
+      "num_comments": 0,
+      "story_id": 46847536,
+      "created_at_i": 1769965446,
+      "created_at": "2026-02-01T17:04:06Z",
+      "updated_at": "2026-03-05T23:28:39Z",
+      "_tags": [
+        "story",
+        "author_STEM-AI-FDE",
+        "story_46847536"
+      ],
+      "objectID": "46847536"
+    },
+    {
+      "title": "Ask HN: Just saw a YC25 job posting front page that looks like a 7-day work week",
+      "author": "walrus01",
+      "points": 82,
+      "num_comments": 56,
+      "story_id": 49395700,
+      "created_at_i": 1787361965,
+      "created_at": "2026-08-22T01:26:05Z",
+      "updated_at": "2026-09-14T17:39:22Z",
+      "_tags": [
+        "story",
+        "author_walrus01",
+        "story_49395700",
+        "ask_hn"
+      ],
+      "children": [
+        49395754,
+        49395776,
+        49395785,
+        49395848,
+        49395928,
+        49395944,
+        49396002,
+        49396031,
+        49396104,
+        49396185,
+        49396235,
+        49396258,
+        49396418,
+        49396469,
+        49396626,
+        49396645,
+        49396857,
+        49397164,
+        49397211,
+        49397708
+      ],
+      "objectID": "49395700"
+    },
+    {
+      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+      "url": "https://armature.tech/",
+      "author": "screm",
+      "points": 42,
+      "num_comments": 8,
+      "story_id": 49157807,
+      "created_at_i": 1785773879,
+      "created_at": "2026-08-03T16:17:59Z",
+      "updated_at": "2026-08-14T14:11:51Z",
+      "_tags": [
+        "story",
+        "author_screm",
+        "story_49157807",
+        "show_hn"
+      ],
+      "children": [
+        49158731,
+        49158909,
+        49159389,
+        49160204,
+        49161667,
+        49164499,
+        49166438,
+        49174691,
+        49182590,
+        49183753,
+        49188056,
+        49194406,
+        49242869
+      ],
+      "objectID": "49157807"
+    },
+    {
+      "title": "Show HN: Motie – Replit for Web Scraping",
+      "url": "https://app.motie.dev",
+      "author": "jb_hn",
+      "points": 4,
+      "num_comments": 4,
+      "story_id": 46299373,
+      "created_at_i": 1765958606,
+      "created_at": "2025-12-17T08:03:26Z",
+      "updated_at": "2026-03-05T23:14:08Z",
+      "_tags": [
+        "story",
+        "author_jb_hn",
+        "story_46299373",
+        "show_hn"
+      ],
+      "children": [
+        46304597,
+        46309835
+      ],
+      "objectID": "46299373"
+    },
+    {
+      "title": "Show HN: Vector Defense – retro tower defense game",
+      "url": "https://vectordefensegame.com",
+      "author": "michaelteter",
+      "points": 3,
+      "num_comments": 1,
+      "story_id": 46502843,
+      "created_at_i": 1767638571,
+      "created_at": "2026-01-05T18:42:51Z",
+      "updated_at": "2026-03-05T23:16:28Z",
+      "_tags": [
+        "story",
+        "author_michaelteter",
+        "story_46502843",
+        "show_hn"
+      ],
+      "children": [
+        46506665
+      ],
+      "objectID": "46502843"
+    },
+    {
+      "title": "Show HN: A book that builds GPT-2, Llama 3, DeepSeek from scratch in PyTorch",
+      "author": "s1lv3rj1nx",
+      "points": 2,
+      "num_comments": 1,
+      "story_id": 47779084,
+      "created_at_i": 1776261694,
+      "created_at": "2026-04-15T14:01:34Z",
+      "updated_at": "2026-04-15T17:13:12Z",
+      "_tags": [
+        "story",
+        "author_s1lv3rj1nx",
+        "story_47779084",
+        "show_hn"
+      ],
+      "children": [
+        47782072
+      ],
+      "objectID": "47779084"
+    },
+    {
+      "title": "New software roles being created by AI?",
+      "author": "venuv",
+      "points": 2,
+      "num_comments": 1,
+      "story_id": 45671054,
+      "created_at_i": 1761148505,
+      "created_at": "2025-10-22T15:55:05Z",
+      "updated_at": "2026-03-05T22:52:49Z",
+      "_tags": [
+        "story",
+        "author_venuv",
+        "story_45671054",
+        "ask_hn"
+      ],
+      "children": [
+        45671297
+      ],
+      "objectID": "45671054"
+    },
+    {
+      "title": "Show HN: Vector Defense – retro tower defense game demo",
+      "url": "https://michaelteter.com/vector.html",
+      "author": "michaelteter",
+      "points": 2,
+      "num_comments": 0,
+      "story_id": 46446829,
+      "created_at_i": 1767205657,
+      "created_at": "2025-12-31T18:27:37Z",
+      "updated_at": "2026-03-05T23:16:50Z",
+      "_tags": [
+        "story",
+        "author_michaelteter",
+        "story_46446829",
+        "show_hn"
+      ],
+      "objectID": "46446829"
+    },
+    {
+      "title": "Show HN: Chloe is a TypeScript AI agent",
+      "url": "https://chloejs.org/compare",
+      "author": "carlosmartinezt",
+      "points": 1,
+      "num_comments": 0,
+      "story_id": 49998857,
+      "created_at_i": 1791407543,
+      "created_at": "2026-10-07T21:12:23Z",
+      "updated_at": "2026-10-07T21:14:06Z",
+      "_tags": [
+        "story",
+        "author_carlosmartinezt",
+        "story_49998857",
+        "show_hn"
+      ],
+      "objectID": "49998857"
+    },
+    {
+      "title": "Ask HN: At Palantir, what is the difference between...",
+      "url": "",
+      "author": "fananta",
+      "points": 1,
+      "num_comments": 0,
+      "story_id": 3712394,
+      "created_at_i": 1331883949,
+      "created_at": "2012-03-16T07:45:49Z",
+      "updated_at": "2024-09-19T18:21:41Z",
+      "_tags": [
+        "story",
+        "author_fananta",
+        "story_3712394",
+        "ask_hn"
+      ],
+      "objectID": "3712394"
+    },
+    {
+      "title": "I analyzed 1000 forward deployed engineering jobs – here's what I learned",
+      "url": "https://bloomberry.com/blog/i-analyzed-1000-forward-deployed-engineer-jobs-what-i-learned/",
+      "author": "AznHisoka",
+      "points": 4,
+      "num_comments": 2,
+      "story_id": 45970395,
+      "created_at_i": 1763492139,
+      "created_at": "2025-11-18T18:55:39Z",
+      "updated_at": "2026-03-05T23:02:21Z",
+      "_tags": [
+        "story",
+        "author_AznHisoka",
+        "story_45970395"
+      ],
+      "children": [
+        45970463
+      ],
+      "objectID": "45970395"
+    },
+    {
+      "title": "Developer job requirement: “You are an awesome person”",
+      "url": "https://spectrum.chat/palmer/careers/forward-deployed-software-engineer-frontend~aaf75ac7-f20a-49b5-9067-b95c0129774a",
+      "author": "magicbuzz",
+      "points": 3,
+      "num_comments": 0,
+      "story_id": 21253896,
+      "created_at_i": 1571094889,
+      "created_at": "2019-10-14T23:14:49Z",
+      "updated_at": "2024-09-20T04:59:36Z",
+      "_tags": [
+        "story",
+        "author_magicbuzz",
+        "story_21253896"
+      ],
+      "objectID": "21253896"
+    },
+    {
+      "title": "The Palantir job that grows startup founders",
+      "url": "https://www.businessinsider.com/palantirs-forward-deployed-engineer-role-churns-out-startup-founders-2025-6",
+      "author": "robertkoss",
+      "points": 2,
+      "num_comments": 1,
+      "story_id": 44223380,
+      "created_at_i": 1749468681,
+      "created_at": "2025-06-09T11:31:21Z",
+      "updated_at": "2025-06-09T13:35:23Z",
+      "_tags": [
+        "story",
+        "author_robertkoss",
+        "story_44223380"
+      ],
+      "children": [
+        44223381
+      ],
+      "objectID": "44223380"
+    },
+    {
+      "title": "Ask HN: Can't get hired – what's next?",
+      "author": "silvercymbals",
+      "points": 54,
+      "num_comments": 149,
+      "story_id": 45599308,
+      "created_at_i": 1760568807,
+      "created_at": "2025-10-15T22:53:27Z",
+      "updated_at": "2026-08-19T19:51:55Z",
+      "_tags": [
+        "story",
+        "author_silvercymbals",
+        "story_45599308",
+        "ask_hn"
+      ],
+      "children": [
+        45599409,
+        45599412,
+        45599460,
+        45599471,
+        45599539,
+        45599541,
+        45599562,
+        45599566,
+        45599577,
+        45599595,
+        45599604,
+        45599616,
+        45599619,
+        45599625,
+        45599642,
+        45599649,
+        45599668,
+        45599704,
+        45599754,
+        45599843,
+        45599850,
+        45599851,
+        45599857,
+        45599861,
+        45599883,
+        45599958,
+        45600065,
+        45600073,
+        45600431,
+        45600471,
+        45600851,
+        45601044,
+        45601373,
+        45601619,
+        45604354
+      ],
+      "objectID": "45599308"
+    },
+    {
+      "title": "Launch HN: Dharma (YC S17) an open protocol for borrowing/lending cryptoassets",
+      "author": "nahollander",
+      "points": 184,
+      "num_comments": 162,
+      "story_id": 17128443,
+      "created_at_i": 1527015073,
+      "created_at": "2018-05-22T18:51:13Z",
+      "updated_at": "2024-09-20T02:29:29Z",
+      "_tags": [
+        "story",
+        "author_nahollander",
+        "story_17128443",
+        "launch_hn"
+      ],
+      "children": [
+        17128574,
+        17128605,
+        17128608,
+        17128644,
+        17128669,
+        17128796,
+        17128823,
+        17128891,
+        17128896,
+        17128897,
+        17128914,
+        17128929,
+        17128938,
+        17129048,
+        17129391,
+        17129502,
+        17129636,
+        17129683,
+        17129689,
+        17129695,
+        17130395,
+        17130487,
+        17130575,
+        17130698,
+        17130701,
+        17130766,
+        17131826,
+        17132138,
+        17133535,
+        17134512
+      ],
+      "objectID": "17128443"
+    },
+    {
+      "title": "Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust",
+      "url": "https://github.com/artifact-keeper",
+      "author": "bsgeraci",
+      "points": 166,
+      "num_comments": 67,
+      "story_id": 46909037,
+      "created_at_i": 1770351179,
+      "created_at": "2026-02-06T04:12:59Z",
+      "updated_at": "2026-06-02T18:38:54Z",
+      "_tags": [
+        "story",
+        "author_bsgeraci",
+        "story_46909037",
+        "show_hn"
+      ],
+      "children": [
+        46909867,
+        46909898,
+        46910129,
+        46910237,
+        46910433,
+        46910503,
+        46910688,
+        46910948,
+        46911160,
+        46911533,
+        46911892,
+        46911929,
+        46912141,
+        46912233,
+        46912699,
+        46913461,
+        46914037,
+        46914046,
+        46915730,
+        46916733,
+        46917136,
+        46917265,
+        46917499,
+        46920860,
+        46923600,
+        46945846
+      ],
+      "objectID": "46909037"
+    },
+    {
+      "title": "Fluvio – Lean and mean distributed stream processing system written in Rust",
+      "author": "debadyutirc",
+      "points": 3,
+      "num_comments": 0,
+      "story_id": 38503625,
+      "created_at_i": 1701563323,
+      "created_at": "2023-12-03T00:28:43Z",
+      "updated_at": "2024-09-20T15:45:16Z",
+      "_tags": [
+        "story",
+        "author_debadyutirc",
+        "story_38503625",
+        "ask_hn"
+      ],
+      "objectID": "38503625"
+    },
+    {
+      "title": "Show HN: Tunerhub - A platform for sharing your automotive project",
+      "author": "s32x",
+      "points": 2,
+      "num_comments": 3,
+      "story_id": 21162879,
+      "created_at_i": 1570233172,
+      "created_at": "2019-10-04T23:52:52Z",
+      "updated_at": "2024-09-20T05:00:28Z",
+      "_tags": [
+        "story",
+        "author_s32x",
+        "story_21162879",
+        "show_hn"
+      ],
+      "children": [
+        21162917,
+        21163021
+      ],
+      "objectID": "21162879"
+    },
+    {
+      "title": "Ask HN: Stuck in Enterprise CRUD: Seeking Path to Hands-On AI Role",
+      "author": "mattfrommars",
+      "points": 1,
+      "num_comments": 2,
+      "story_id": 45776011,
+      "created_at_i": 1761940381,
+      "created_at": "2025-10-31T19:53:01Z",
+      "updated_at": "2026-03-05T22:59:32Z",
+      "_tags": [
+        "story",
+        "author_mattfrommars",
+        "story_45776011",
+        "ask_hn"
+      ],
+      "children": [
+        45776640
+      ],
+      "objectID": "45776011"
+    },
+    {
+      "title": "Ask HN: Can you guys give me some advice on my resume?",
+      "url": "",
+      "author": "zhouyang",
+      "points": 1,
+      "num_comments": 1,
+      "created_at_i": 1425384405,
+      "created_at": "2015-03-03T12:06:45Z",
+      "updated_at": "2023-09-07T02:13:05Z",
+      "_tags": [
+        "story",
+        "author_zhouyang",
+        "story_9137244",
+        "ask_hn"
+      ],
+      "children": [
+        9207948
+      ],
+      "story_id": 9137244,
+      "objectID": "9137244"
+    },
+    {
+      "title": "Show HN: OmniGlass – An open-source, sandboxed Visual Action Engine",
+      "url": "https://github.com/goshtasb/OmniGlass",
+      "author": "goshtasb",
+      "points": 1,
+      "num_comments": 0,
+      "story_id": 47125907,
+      "created_at_i": 1771869189,
+      "created_at": "2026-02-23T17:53:09Z",
+      "updated_at": "2026-05-08T04:07:46Z",
+      "_tags": [
+        "story",
+        "author_goshtasb",
+        "story_47125907",
+        "show_hn"
+      ],
+      "objectID": "47125907"
+    }
+  ],
+  "nbHits": 73,
+  "page": 0,
+  "nbPages": 1,
+  "hitsPerPage": 1000,
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": false,
+  "exhaustive": {
+    "nbHits": false,
+    "typo": false
+  },
+  "query": "Forward deployed engineers",
+  "params": "query=Forward+deployed+engineers&page=0&hitsPerPage=1000&tagFilters=%5B%22story%22%5D&queryType=prefixNone&typoTolerance=true&minWordSizefor1Typo=4&minWordSizefor2Typos=8&ignorePlurals=false&minProximity=7&advancedSyntax=true&restrictSearchableAttributes=%5B%22title%22%2C%22comment_text%22%2C%22url%22%2C%22story_text%22%2C%22author%22%5D",
+  "processingTimeMS": 21,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 16
+    },
+    "afterFetch": {
+      "format": {
+        "highlighting": 6,
+        "total": 7
+      },
+      "merge": {
+        "mergeLoop": {
+          "prepareNextHit": 1,
+          "total": 1
+        },
+        "total": 1
+      },
+      "total": 1
+    },
+    "fetch": {
+      "query": 11,
+      "scanning": 2,
+      "total": 14
+    },
+    "getIdx": {
+      "load": {
+        "gens": 3,
+        "total": 4
+      },
+      "total": 4
+    },
+    "total": 21
+  },
+  "serverTimeMS": 29
+}

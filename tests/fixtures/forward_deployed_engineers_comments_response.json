@@ -1,0 +1,151 @@
+{
+  "hits": [
+    {
+      "author": "adamgordonbell",
+      "comment_text": "Yeah, my bad. I might have hallucinated the &#x27;force&#x27; part.<p>But I&#x27;m reading Karp&#x27;s authorized biography, The Philosopher in the Valley, and it does say names were chosen to be legible to military. Or something like that.",
+      "story_id": 48900432,
+      "story_title": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+      "story_url": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+      "parent_id": 48901175,
+      "created_at_i": 1784207032,
+      "created_at": "2026-07-16T13:03:52Z",
+      "updated_at": "2026-07-16T13:05:10Z",
+      "_tags": [
+        "comment",
+        "author_adamgordonbell",
+        "story_48900432"
+      ],
+      "objectID": "48933929",
+      "_highlightResult": {
+        "author": {
+          "value": "adamgordonbell",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "Yeah, my bad. I might have hallucinated the 'force' part.<p>But I'm reading Karp's authorized biography, The Philosopher in the Valley, and it does say names were chosen to be legible to military. Or something like that.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "author": "slowin",
+      "comment_text": "Sales engineers do post-sales work. Typically if they&#x27;re going to do a significant amount of real work, they&#x27;d just be called &quot;consultants&quot;.",
+      "story_id": 48900432,
+      "story_title": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+      "story_url": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+      "parent_id": 48910110,
+      "created_at_i": 1784077805,
+      "created_at": "2026-07-15T01:10:05Z",
+      "updated_at": "2026-07-15T15:59:07Z",
+      "_tags": [
+        "comment",
+        "author_slowin",
+        "story_48900432"
+      ],
+      "objectID": "48915018",
+      "_highlightResult": {
+        "author": {
+          "value": "slowin",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "Sales engineers do post-sales work. Typically if they're going to do a significant amount of real work, they'd just be called &quot;consultants&quot;.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "author": "altairprime",
+      "comment_text": "&quot;Customer-embedded engineers&quot; or &quot;Site engineers&quot; are two useful non-military way to phrase this.",
+      "story_id": 48900432,
+      "story_title": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+      "story_url": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+      "parent_id": 48900432,
+      "created_at_i": 1784069935,
+      "created_at": "2026-07-14T22:58:55Z",
+      "updated_at": "2026-07-14T23:10:18Z",
+      "_tags": [
+        "comment",
+        "author_altairprime",
+        "story_48900432"
+      ],
+      "objectID": "48914009",
+      "_highlightResult": {
+        "author": {
+          "value": "altairprime",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "&quot;Customer-embedded engineers&quot; or &quot;Site engineers&quot; are two useful non-military way to phrase this.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    }
+  ],
+  "nbHits": 98,
+  "page": 0,
+  "nbPages": 33,
+  "hitsPerPage": 3,
+  "exhaustiveNbHits": true,
+  "exhaustiveTypo": true,
+  "exhaustive": {
+    "nbHits": true,
+    "typo": true
+  },
+  "query": "",
+  "params": "hitsPerPage=3&tagFilters=%5B%22comment%22%2C%22story_48900432%22%5D&queryType=prefixNone&typoTolerance=true&minWordSizefor1Typo=4&minWordSizefor2Typos=8&ignorePlurals=false&minProximity=7&advancedSyntax=true&restrictSearchableAttributes=%5B%22title%22%2C%22comment_text%22%2C%22url%22%2C%22story_text%22%2C%22author%22%5D&page=0",
+  "processingTimeMS": 7,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 18
+    },
+    "fetch": {
+      "total": 1
+    },
+    "getIdx": {
+      "load": {
+        "gens": 3,
+        "total": 4
+      },
+      "total": 4
+    },
+    "total": 7
+  },
+  "serverTimeMS": 8
+}

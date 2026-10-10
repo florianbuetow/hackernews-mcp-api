@@ -1,0 +1,85 @@
+{
+  "47542553": {
+    "by": "rubyrenegade",
+    "descendants": 7,
+    "id": 47542553,
+    "kids": [
+      47546447,
+      47543168,
+      47542672
+    ],
+    "score": 2,
+    "text": "We&#x27;re hiring Forward Deployed Engineers at my company but can&#x27;t seem to find the combo of strong coding chops + customer-facing experience we need. I know Palantir made this a coveted role not too long ago, but rumor has it the enthusiasm is running low. What are you seeing at your company? Is there an alternative role&#x2F;title we should be hiring for to find the right people?",
+    "time": 1774618918,
+    "title": "Ask HN: What's the Deal with Forward Deployed Engineers?",
+    "type": "story"
+  },
+  "47542672": {
+    "by": "8organicbits",
+    "id": 47542672,
+    "kids": [
+      47545712
+    ],
+    "parent": 47542553,
+    "text": "Are you sure you&#x27;re offering a competitive salary?",
+    "time": 1774619548,
+    "type": "comment"
+  },
+  "47543168": {
+    "by": "KellyCriterion",
+    "id": 47543168,
+    "kids": [
+      47545725
+    ],
+    "parent": 47542553,
+    "text": "I would just call them &quot;enterprise integrators&quot; or &quot;system integrators&quot;, according to my understanding this is what the palantir guys are doing: Customizing the integration at the edge, since its a complex task they call them &quot;FDE&quot;?",
+    "time": 1774622311,
+    "type": "comment"
+  },
+  "47545712": {
+    "by": "rubyrenegade",
+    "id": 47545712,
+    "kids": [
+      47617904
+    ],
+    "parent": 47542672,
+    "text": "I think so. We&#x27;ve done the research on it. That doesn&#x27;t mean we shouldn&#x27;t revisit the salary, but I think there&#x27;s a fundamental mismatch between what we&#x27;re asking for and who is applying.",
+    "time": 1774632584,
+    "type": "comment"
+  },
+  "47545725": {
+    "by": "rubyrenegade",
+    "id": 47545725,
+    "parent": 47543168,
+    "text": "We actually don&#x27;t want them to do exactly what the Palantir FDEs do. They will be customer-facing, but we&#x27;re looking for people with a high degree of coding skill. We&#x27;re getting lots of people to apply who have the customer-facing experience but barely any experience with coding.",
+    "time": 1774632661,
+    "type": "comment"
+  },
+  "47546447": {
+    "by": "caprock",
+    "id": 47546447,
+    "kids": [
+      47548311
+    ],
+    "parent": 47542553,
+    "text": "Significant chunks of the software engineer community self select into  minimizing time spent with customers or even any non-engineers. It&#x27;s understandable but unfortunate too.<p>I would suggest looking for people that were initially hands on but converted to sales engineer or professional services roles. Some switch because they don&#x27;t like the programming. Some will quietly be very good engineers that have seen a lot of scenarios.<p>You&#x27;ll have to pay a premium for travel if you want to get experienced people that have families at home.",
+    "time": 1774636129,
+    "type": "comment"
+  },
+  "47548311": {
+    "by": "rubyrenegade",
+    "id": 47548311,
+    "parent": 47546447,
+    "text": "Thanks for the feedback! We&#x27;re refocusing our efforts to find strong engineers who have the right instincts and soft skills to deal with customers. Travel will still be a part of the role and we&#x27;re happy to pay for that! I thought this was a hot role, so I&#x27;m coming grips to the reality that it is going to be very hard to fill!",
+    "time": 1774645957,
+    "type": "comment"
+  },
+  "47617904": {
+    "by": "mmarian",
+    "id": 47617904,
+    "parent": 47545712,
+    "text": "Have you contacted anyone who&#x27;s currently an FDE? That will quickly validate your assumptions.",
+    "time": 1775152834,
+    "type": "comment"
+  }
+}
